@@ -63,5 +63,6 @@ public class CardTrick {
         luckCard.setValue(2);
         luckCard.setSuit(Card.SUITS[2]); // 2 corresponds to Clubs in SUITS array
         System.out.println("The luck card is: " + luckCard);
+        
     }
 }
